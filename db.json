@@ -1,0 +1,52 @@
+{
+    "benefits": [
+        {
+            "title": "La mejor forma de conectarte con tus usuarios",
+            "content": "Una página web es el método más eficaz que puedes implementar para estrechar la relación que tienes con tus clientes, mostrar tus productos, recibir opiniones y enterarte de qué es exactamente lo que tus clientes necesitan. ",
+            "img": "https://res.cloudinary.com/athome-techs/image/upload/v1578238123/athome/benefits/conect-3.jpg",
+            "left": true
+        },
+        {
+            "title": "El balance perfecto entre tus gustos y tu presupuesto",
+            "content": "¡Que tu presupuesto no sea un impedimento para el desarrollo de tu negocio! Sin precios desorbitados ni abusivos, te ofrecemos proyectos que se adaptan a todo tipo de presupuestos y te damos soporte incluido para evitar cargos extra.",
+            "img":"https://res.cloudinary.com/athome-techs/image/upload/v1578232434/athome/benefits/finance.jpg",
+            "left": false
+        },
+        {
+            "title": "No te quedes atrás! Da a conocer tus servicios!",
+            "content": "Una página web impecable y con diseño moderno y atractivo que le muestre a tus futuros y actuales clientes qué es lo que les ofreces, tus precios, las formas de contactarte y poder hacer negocios contigo. Eso es lo que necesitas para abarcar un mercado más amplio.",
+            "img": "https://res.cloudinary.com/athome-techs/image/upload/v1578232467/athome/benefits/service.jpg",
+            "left": true
+        },
+        {
+            "title": "Lleva tus ventas al siguiente nivel",
+            "content": "Al entrar al mundo de la web, tendrás acceso a miles de clientes potenciales que necesitan de tus servicios y no dudarán en contratarlos. No te limites a la publicidad de los periódicos, radio o televisión.",
+            "img": "https://res.cloudinary.com/athome-techs/image/upload/v1578232418/athome/benefits/chart.jpg",
+            "left": false
+        },
+        {
+            "title": "Crea tus propios estilos con tus reglas",
+            "content": "Nuestro producto será el reflejo de lo que tú o tu negocio deseen. Tendrás la opción de escoger la paleta de colores, animaciones y diseño general del producto, recibiendo asesoría totalmente personalizada para tu caso. Sin diseños predeterminados ni plantillas, únicamente productos hechos para cada caso diferente.",
+            "img": "https://res.cloudinary.com/athome-techs/image/upload/v1578232484/athome/benefits/art.jpg",
+            "left": true
+        }
+    ], "workprocess": [
+        {
+            "title": "Planeación",
+            "content": "Programamos las reuniones necesarias (vía Internet o presencial) para hacer un estudio y comprender las necesidades del proyecto, comenzando con un estudio de los objetivos de su empresa, presupuesto, diseño y desarrollo.",
+            "left": true
+        },{
+            "title": "Research",
+            "content": "Realizamos en conjunto con nuestros clientes un estudio para encontrar las características principales que necesitan sus paginas web, desde las interfaces y las funcionalidades que hará que sus visitantes tengan una mejor experiencia.",
+            "left": false 
+        },{
+            "title": "Diseño",
+            "content": "Se inicia con el diseño de un bosquejo/borrador para estructurar la información y darle una buena experiencia a los usuarios finales, luego de ser aceptado el borrador, se realiza el diseño final. Cuando este es aceptado, es llevado a la siguiente etapa.",
+            "left": true
+        },{
+            "title": "Desarrollo",
+            "content": "Se le da vida al diseño anteriormente aceptado, y se cumple con los requerimientos planteados en la etapa de planeación.",
+            "left": false
+        }
+    ]
+}
