@@ -39,21 +39,25 @@
         {
             "title": "Planeación",
             "content": "Programamos las reuniones necesarias (vía Internet o presencial) para hacer un estudio y comprender las necesidades del proyecto, comenzando con un estudio de los objetivos de su empresa, presupuesto, diseño y desarrollo.",
+            "img": "https://res.cloudinary.com/athome-techs/image/upload/v1578265080/athome/process/planeacion.jpg",
             "left": true,
             "number": "001"
         },{
             "title": "Research",
             "content": "Realizamos en conjunto con nuestros clientes un estudio para encontrar las características principales que necesitan sus paginas web, desde las interfaces y las funcionalidades que hará que sus visitantes tengan una mejor experiencia.",
+            "img": "https://res.cloudinary.com/athome-techs/image/upload/v1578265080/athome/process/research.jpg",
             "left": false,
             "number": "002"
         },{
             "title": "Diseño",
             "content": "Se inicia con el diseño de un bosquejo/borrador para estructurar la información y darle una buena experiencia a los usuarios finales, luego de ser aceptado el borrador, se realiza el diseño final. Cuando este es aceptado, es llevado a la siguiente etapa.",
+            "img": "https://res.cloudinary.com/athome-techs/image/upload/v1578265080/athome/process/design.jpg",
             "left": true,
             "number": "003"
         },{
             "title": "Desarrollo",
             "content": "Se le da vida al diseño anteriormente aceptado, y se cumple con los requerimientos planteados en la etapa de planeación.",
+            "img": "https://res.cloudinary.com/athome-techs/image/upload/v1578265080/athome/process/code.jpg",
             "left": false,
             "number": "004"
         }
