@@ -61,5 +61,19 @@
             "left": false,
             "number": "004"
         }
+    ], "members":[ 
+        {
+            "img": "https://res.cloudinary.com/athome-techs/image/upload/v1578256972/athome/members/hernan.jpg",
+            "name": "Hernan Reyes",
+            "role": "Backend Developer"
+        },{
+            "img": "https://res.cloudinary.com/athome-techs/image/upload/v1578256972/athome/members/hernan.jpg",
+            "name": "Hernan Reyes",
+            "role": "Backend Developer"
+        },{
+            "img": "https://res.cloudinary.com/athome-techs/image/upload/v1578256972/athome/members/hernan.jpg",
+            "name": "Hernan Reyes",
+            "role": "Backend Developer"
+        }
     ]
 }
