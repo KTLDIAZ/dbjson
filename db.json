@@ -67,13 +67,13 @@
             "name": "Hernan Reyes",
             "role": "Backend Developer"
         },{
-            "img": "https://res.cloudinary.com/athome-techs/image/upload/v1578256972/athome/members/hernan.jpg",
-            "name": "Hernan Reyes",
-            "role": "Backend Developer"
+            "img": "https://res.cloudinary.com/athome-techs/image/upload/v1578626491/athome/members/fernando.jpg",
+            "name": "Fernando Manzanares",
+            "role": "Diseñador/Frontend"
         },{
-            "img": "https://res.cloudinary.com/athome-techs/image/upload/v1578256972/athome/members/hernan.jpg",
-            "name": "Hernan Reyes",
-            "role": "Backend Developer"
+            "img": "https://res.cloudinary.com/athome-techs/image/upload/v1578626660/athome/members/mygopher_lborh9.png",
+            "name": "Melvin Diaz",
+            "role": "Frontend Developer"
         }
     ]
 }
